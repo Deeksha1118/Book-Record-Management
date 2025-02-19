@@ -5,7 +5,7 @@
   >> user register
   >> subscription
 
-# This is a book record management APT Server/ Backend for the library system of records or manuals or books
+# This is a book record management API Server/ Backend for the library system of records or manuals or books
 
 # Routes and Endpoints(API)
 
